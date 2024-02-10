@@ -1,3 +1,8 @@
+
+Enlace a la URL de la aplicación desplegada:
+http://aplicaciondanielfgarcia-env.eba-qqm28i3f.us-east-1.elasticbeanstalk.com/?data=Daniel+F+Garc%C3%ADa
+
+
 # Ejemplo de despliegue de aplicaciones con GitHub Actions
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
